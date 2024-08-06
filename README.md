@@ -1,7 +1,10 @@
 # Simon-game
 
 #How to Play Simon Says
+
+
 1.Objective:
+
 Replicate the sequence of colors shown by the game to reach the highest level possible.
 
 2.Setup:
